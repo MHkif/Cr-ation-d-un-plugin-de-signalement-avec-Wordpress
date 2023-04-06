@@ -13,9 +13,7 @@ L'extension Elementor a été installée pour faciliter la création de pages.
 # Extension "Signal"
 
 L'extension "Signal" pour WordPress a été créée. Cette extension est un outil qui permet aux administrateurs de sites Web WordPress de collecter des signaux (ou feedback) de leurs utilisateurs. Les utilisateurs peuvent envoyer des signaux sur le contenu du site, les fonctionnalités ou tout autre aspect de l'expérience utilisateur. Lorsqu'un utilisateur envoie un signal, l'extension enregistre les détails du signal dans une base de données. Les informations collectées peuvent inclure le nom de l'utilisateur, son adresse e-mail, la date et l'heure à laquelle le signal a été envoyé, ainsi que le contenu du signal lui-même.
-# Extension "Login"
 
-L'extension "Login" a également été créée pour permettre la connexion des utilisateurs.
 # # Activation des extensions
 
 Les extensions ont été activées en appuyant sur le bouton "Activer".
